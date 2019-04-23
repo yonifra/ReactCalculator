@@ -2,3 +2,24 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.buttonContainer {
+  width: 100px;
+}
+
+.screen {
+  width: 300px;
+  background: green;
+  padding: 0px;
+  margin: 0px;
+}
