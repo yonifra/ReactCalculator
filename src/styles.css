@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Dosis");
+
 .App {
-  font-family: sans-serif;
+  font-family: "Dosis";
   text-align: center;
 }
 
@@ -18,8 +20,9 @@ td {
 }
 
 .screen {
-  width: 300px;
-  background: green;
+  width: 310px;
+  height: 80px;
+  background: lime;
   padding: 0px;
   margin: 0px;
 }

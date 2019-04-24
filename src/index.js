@@ -9,7 +9,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <Screen />
+      <Screen value=""/>
       <table>
         <tr>
           <td>

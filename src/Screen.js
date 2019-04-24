@@ -4,7 +4,7 @@ class Screen extends React.Component {
   render() {
     return (
       <div className="screen">
-        <h1>hey</h1>
+        <h1>{this.props.value}</h1>
       </div>
     );
   }
